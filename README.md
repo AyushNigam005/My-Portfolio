@@ -11,7 +11,7 @@ This is the source code for my personal portfolio website.
 - [Technologies Used](#technologies-used)  
 - [File Structure](#file-structure)  
 - [Setup / Run Locally](#setup--run-locally)    
-- [Contact](#contact)
+
 
 ---
 
@@ -73,9 +73,6 @@ To view or test this site on your local machine:
 
 ---
 
-## Contact
-
-Name: Ayush Nigam            Email: ayushnigam004@gmail.com
 
 
 
