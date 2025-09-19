@@ -46,10 +46,13 @@ Here is an overview of the repo’s directory structure:
 
 My-Portfolio/
 │
-├── assets/ ← Images, icons, other static assets
-├── index.html ← Main HTML file for the website
-├── LICENSE ← MIT License file
-└── README.md ← This file
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── index.html
+├── LICENSE
+└── README.md
 
 ---
 
@@ -62,16 +65,18 @@ To view or test this site on your local machine:
    git clone https://github.com/AyushNigam005/My-Portfolio.git
 
 2. Navigate into the folder
+    ```bash
    cd My-Portfolio
 
-3. Open index.html in your web browser
+4. Open index.html in your web browser
    No build tools required unless you add more complex setup later.
 
 ---
 
 ## Contact
 
-Name: Ayush Nigam
-GitHub: AyushNigam005
-Email: ayushnigam004@gmail.com
+Name: Ayush Nigam            Email: ayushnigam004@gmail.com
+
+
+
 
