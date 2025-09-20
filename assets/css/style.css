@@ -41,12 +41,15 @@ h1, h2, h3, h4, h5, h6 {
     overflow-y: auto;
   }
   
-  #header .profile img {
+ #header .profile img {
     margin: 15px auto;
     display: block;
     width: 120px;
+    height: 120px;         /* make height equal to width */
     border: 8px solid #2c2f3f;
-  }
+    border-radius: 50%;    /* makes it a full circle */
+    object-fit: cover;     /* ensures the image covers the circle nicely */
+}
   
   #header .profile h1 {
     font-size: 24px;
